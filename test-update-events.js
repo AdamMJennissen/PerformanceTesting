@@ -1,5 +1,9 @@
 'use strict';
 
+/*
+PLEASE KEEP IN MIND THIS FILE STILL HAS YET TO BE THOROUGHLY TESTED.
+*/
+
 //following lines set up the server
 const http = require('http');
 const autocannon = require('autocannon');
